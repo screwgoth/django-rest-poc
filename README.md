@@ -1,5 +1,4 @@
-# Django REST Frameworl PoC
-===========================
+# Django REST Framework PoC
 
 This project is a PoC for understanding and learning the Django REST Framework module.
 Inside the parent project folder "puppy_store", are two Django Apps :
